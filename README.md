@@ -7,7 +7,7 @@ Below you can find the description of a coding challenge that we ask people to p
 
 The goal of this coding challenge is to provide the applicant some insight into the business we're in and as such provide the applicant an indication about the challenges she/he will be confronted with. Next, during the first interview we will use the applicant's implementation as a seed to discuss all kinds of interesting software engineering topics.  
 
-Time is scarce, we know. Therefore we ask you not to spend more than 4 hours on this challenge. We know it is not possible to deliver a finished implementation of the challenge in only four hours. Even though your submission will not be complete, it will provide us plenty of information and topics to discuss later on during the talks.
+Time is scarce, we know. Therefore we recommend you not to spend more than 4 hours on this challenge. We know it is not possible to deliver a finished implementation of the challenge in only four hours so, please, try to detail in a few lines how you'll improve it, what it is missing due to lack of time. Even though your submission will not be complete, it will provide us plenty of information and topics to discuss later on during the talks.
 
 This coding-challenge is part of a formal process and is used in collaboration with the recruiting companies we work with.  Submitting a pull-request will not automatically trigger the recruitement process.
 ## Who are we 

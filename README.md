@@ -42,7 +42,7 @@ venv\Scripts\activate  # On Windows
 3.- Install Dependencies
 pip install -r requirements.txt
 4.- Start the API
-uvicorn app.main:app --host 0.0.0.0 --port 8888 --reload
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8888 --reload
 
 The API will be available at:
  http://127.0.0.1:8888/docs (Swagger UI)
